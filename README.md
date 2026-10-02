@@ -1,30 +1,31 @@
-# Sistema de Gestión para Farmacia
-
 ## Integrantes
 
 - Lautaro Altamirano
-- Nombre del segundo integrante
 
-## Descripción
+## Distribución de tareas
 
-Proyecto realizado para la materia Programación II.
+El trabajo fue realizado de manera individual.
 
-La aplicación permite administrar información básica de una farmacia.
+Las tareas realizadas fueron:
 
-Se pueden gestionar:
+- Estructura inicial del proyecto.
+- Desarrollo del backend con Flask.
+- Creación de modelos, controladores y rutas.
+- Integración con MySQL.
+- Desarrollo del frontend con React y Material UI.
+- Implementación del CRUD de categorías.
+- Implementación del CRUD de medicamentos.
+- Implementación del CRUD de empleados.
+- Desarrollo del Dashboard.
+- Pruebas de funcionamiento.
+- Documentación y uso de Git/GitHub.
 
-- Medicamentos
-- Categorías
-- Empleados
 
 También cuenta con un Dashboard donde se muestran las cantidades totales de medicamentos, categorías y empleados registrados.
 
 El sistema está dividido en un backend desarrollado con Flask y un frontend desarrollado con React.
 
----
-
 ## Tecnologías utilizadas
-
 ### Backend
 
 - Python
@@ -47,8 +48,6 @@ El sistema está dividido en un backend desarrollado con Flask y un frontend des
 - Git
 - GitHub
 
----
-
 ## Requisitos
 
 Para ejecutar el proyecto es necesario tener instalado:
@@ -67,5 +66,4 @@ Opcionalmente se puede utilizar MySQL Workbench para visualizar la base de datos
 
 La aplicación utiliza una base de datos MySQL llamada:
 
-```text
 farmacia_db
